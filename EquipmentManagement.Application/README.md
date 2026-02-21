@@ -1,0 +1,7 @@
+﻿⚙️ Application (Orquestrador) aqui ficam:
+
+	- Services e Use Cases : Representação dos serviços e casos de uso do sistema, que são responsáveis por orquestrar as operações do sistema e coordenar as interações entre as diferentes camadas. Os serviços e casos de uso são responsáveis por garantir que as operações sejam realizadas de forma eficiente e consistente, seguindo as regras de negócio definidas no domínio.
+	- Coordenação entre repositórios e eventos : Representação da coordenação entre os repositórios e os eventos de domínio, garantindo que as operações realizadas nos repositórios sejam refletidas nos eventos de domínio e vice-versa. Essa coordenação é essencial para garantir a consistência e a integridade dos dados no sistema, permitindo que as mudanças sejam propagadas de forma eficiente e consistente para outras partes do sistema.
+	- DTOs (Data Transfer Objects) : Representação dos objetos de transferência de dados, que são utilizados para transportar dados entre as diferentes camadas do sistema. Os DTOs são responsáveis por garantir que os dados sejam formatados corretamente e transportados de forma eficiente, permitindo a comunicação entre as camadas do sistema de forma clara e consistente.
+
+"Referência Domain"
